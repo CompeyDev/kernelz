@@ -1,5 +1,5 @@
 [package]
-name = "custom-kernel"
+name = "kernelz"
 version = "0.1.0"
 edition = "2021"
 
